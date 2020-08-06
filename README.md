@@ -1,4 +1,2 @@
-# The-Automatic-Survey-and-Fire-Fighting-Robot
-The Robot is based on the MCU STM32F103ZET6,which has realized some functions such as fire-fighting,attitude calculation and four-wheel drive.
-This version(V0.1.1) has two modules,which is the ARM development board module and the driver module.
-The next version(V0.1.2) will upload the remote control communication module.
+# 1.简介
+本产品采用型号为stmf103的MCU，霍尔编码器电机以及l298n电机驱动板 ，车轮部分材质为麦克纳姆轮， 能够实现全向移动，热成像传感器来反馈温度数据，同时，2.4g远程控制（600m）， 5.8ghz远程图传这两个模块来实现双向通信以及数据传输，可以配合实现远程遥控使用灭火器灭火，达到更好的消防灭火效果。
